@@ -12,6 +12,7 @@ export {
   SubmitButton,
   LoadMoreButton,
   InFieldButton,
+  PrimaryButton,
   Button,
   InvisibleButton,
   LinkButton,
