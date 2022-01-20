@@ -1,7 +1,7 @@
 export { default as SubmitButton } from "./SubmitButton";
 export { default as LoadMoreButton } from "./LoadMoreButton";
 export { default as InFieldButton } from "./InFieldButton";
-export { PrimaryButton } from "./PrimaryButton";
+export { default as PrimaryButton } from "./PrimaryButton";
 export { default as Button } from "./Button";
 export { default as InvisibleButton } from "./InvisibleButton";
 export { default as LinkButton } from "./LinkButton";

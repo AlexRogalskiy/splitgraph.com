@@ -5,7 +5,7 @@ import type { Theme } from "@mui/material/styles";
 export interface IPrimaryButtonProps extends ButtonProps {
   sx?: SxProps<Theme>;
 }
-export const PrimaryButton = ({
+const PrimaryButton = ({
   children,
   disabled,
   sx,
@@ -42,3 +42,5 @@ export const PrimaryButton = ({
     {children}
   </Button>
 );
+
+export default PrimaryButton;
