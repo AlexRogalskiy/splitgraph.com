@@ -8,3 +8,4 @@ export { default as LinkButton } from "./LinkButton";
 
 export type { IButtonProps } from "./Button";
 export type { IInFieldButtonProps } from "./InFieldButton";
+export type { IPrimaryButtonProps } from "./PrimaryButton";
